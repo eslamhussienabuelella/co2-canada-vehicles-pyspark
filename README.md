@@ -42,6 +42,21 @@ The study combines distributed data processing (Apache Spark) with statistical l
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
 
+
+## ▶️ How to Run
+
+1. Install **Python 3.9+** and **Apache Spark 3.x**
+2. Clone the repository:
+   ```bash
+   git clone https://github.com/eslamhussienabuelella/co2-canada-vehicles-pyspark.git
+   cd co2-canada-vehicles-pyspark
+3. Open and run the notebook:
+   jupyter notebook notebooks/CO2_emission_submission.ipynb
+4. Alternatively, run the PySpark script: 
+   spark-submit code/CO2_emission_submission.py
+
+
+
 ---
 
 ## 🔬 Methodology
