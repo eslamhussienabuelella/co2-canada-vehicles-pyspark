@@ -116,7 +116,7 @@ co2-canada-vehicles-pyspark/
 ├─ notebooks/  
 │ └─ CO2_emission_submission.ipynb  
 ├─ code/  
-│ └─ CO2_emission_submission.py  
+| └─ CO2_emission_submission.py  
 ├─ visuals/  
 │ ├─ CO2_Distribution_Emissions_Vehicle_Classes.png  
 │ ├─ CO2_Histogram_BoxPlot.png  
