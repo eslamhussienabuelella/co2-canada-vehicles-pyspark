@@ -14,7 +14,7 @@ The study combines distributed data processing (Apache Spark) with statistical l
 - Provide data-driven insights relevant to environmental policy and sustainable transport  
 
 📄 **Full report:**  
-👉 [Identifying Key Drivers of CO₂ Emissions in Canadian Vehicles (PDF)](Identifying Key Drivers of CO₂ Emissions in Canadian Vehicles.pdf)
+👉 [Identifying Key Drivers of CO₂ Emissions in Canadian Vehicles (PDF)](Identifying%20Key%20Drivers%20of%20CO₂%20Emissions%20in%20Canadian%20Vehicles.pdf)
 
 ---
 
