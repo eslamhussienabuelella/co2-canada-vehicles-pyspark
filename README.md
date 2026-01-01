@@ -81,6 +81,11 @@ Exploratory and explanatory visualizations were produced using Tableau, includin
 - Feature importance analysis  
 
 Example outputs are available in the `/visuals` directory.
+## 🖼️ Sample Visuals
+![CO2 distribution by vehicle class](visuals/CO2_Distribution_Emissions_Vehicle_Classes.png)
+![Correlation matrix](visuals/correlation_matrix.png)
+![Fuel consumption trends](visuals/Yearly_Average_Fuel_Consumption.png)
+
 
 ---
 
