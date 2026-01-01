@@ -1,7 +1,7 @@
 # 🚗 CO₂ Emissions Drivers in Canadian Vehicles (1995–2023)
 
 ## 📌 Project Overview
-This project investigates the key drivers of vehicle CO₂ emissions in Canada using large-scale data analytics. A PySpark-based machine learning pipeline is developed to analyze fuel consumption, vehicle characteristics, and technological factors influencing CO₂ emissions across model years 1995–2023.
+This project investigates the key drivers of vehicle CO₂ emissions in Canada using large-scale data analytics. A PySpark-based machine learning pipeline is developed to analyse fuel consumption, vehicle characteristics, and technological factors influencing CO₂ emissions across model years 1995–2023.
 
 The study combines distributed data processing (Apache Spark) with statistical learning models and Tableau-based visual analytics to deliver scalable, interpretable, and policy-relevant insights.
 
@@ -9,7 +9,7 @@ The study combines distributed data processing (Apache Spark) with statistical l
 
 ## 🎯 Objectives
 - Identify the strongest predictors of CO₂ emissions in Canadian vehicles  
-- Compare baseline and regularized regression models with ensemble methods  
+- Compare baseline and regularised regression models with ensemble methods  
 - Demonstrate the use of PySpark ML pipelines for large datasets  
 - Provide data-driven insights relevant to environmental policy and sustainable transport  
 
@@ -51,7 +51,7 @@ The study combines distributed data processing (Apache Spark) with statistical l
    git clone https://github.com/eslamhussienabuelella/co2-canada-vehicles-pyspark.git
    cd co2-canada-vehicles-pyspark
 3. Open and run the notebook:  
-   jupyter notebook notebooks/CO2_emission_submission.ipynb
+   [jupyter notebook](notebooks/CO2_emission_submission.ipynb)
 4. Alternatively, run the PySpark script:   
    spark-submit code/CO2_emission_submission.py
 
