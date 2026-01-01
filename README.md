@@ -50,9 +50,9 @@ The study combines distributed data processing (Apache Spark) with statistical l
    ```bash
    git clone https://github.com/eslamhussienabuelella/co2-canada-vehicles-pyspark.git
    cd co2-canada-vehicles-pyspark
-3. Open and run the notebook:
+3. Open and run the notebook:  
    jupyter notebook notebooks/CO2_emission_submission.ipynb
-4. Alternatively, run the PySpark script: 
+4. Alternatively, run the PySpark script:   
    spark-submit code/CO2_emission_submission.py
 
 
