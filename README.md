@@ -13,8 +13,9 @@ The study combines distributed data processing (Apache Spark) with statistical l
 - Demonstrate the use of PySpark ML pipelines for large datasets  
 - Provide data-driven insights relevant to environmental policy and sustainable transport  
 
-📄 Full report:
-report/Identifying_Key_Drivers_of_CO2_Emissions_in_Canadian_Vehicles.pdf
+📄 **Full report:**  
+👉 [Identifying Key Drivers of CO₂ Emissions in Canadian Vehicles (PDF)](report/Identifying_Key_Drivers_of_CO2_Emissions_in_Canadian_Vehicles.pdf)
+
 ---
 
 ## 🗂 Dataset
