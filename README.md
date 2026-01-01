@@ -1,4 +1,6 @@
 # 🚗 CO₂ Emissions Drivers in Canadian Vehicles (1995–2023)
+# 🚗🇨🇦 Identifying Key Drivers of CO₂ Emissions in Canadian Vehicles (1995–2023)
+
 
 ## 📌 Project Overview
 This project investigates the key drivers of vehicle CO₂ emissions in Canada using large-scale data analytics. A PySpark-based machine learning pipeline is developed to analyse fuel consumption, vehicle characteristics, and technological factors influencing CO₂ emissions across model years 1995–2023.
