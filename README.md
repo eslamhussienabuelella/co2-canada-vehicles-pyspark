@@ -134,18 +134,17 @@ co2-canada-vehicles-pyspark/
 - Demonstrates limited explanatory power of vehicle class compared to consumption metrics  
 - Provides a scalable analytics framework suitable for government and industry datasets  
 
+  
 ---
-
+  
 ## 👤 Author
 **Eslam Abuelella**  
 MSc Data Science – Coventry University  
 
 - GitHub: https://github.com/eslamhussienabuelella  
-- Portfolio: https://eslamhussienabuelella.github.io  
+- Portfolio: https://eslamhussienabuelella.github.io
 
 ---
-
-## 📄 License
-This project is shared for academic and portfolio purposes.
-
-
+  
+## License and Usage
+GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007
